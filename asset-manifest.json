@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simplescreensaver/static/css/main.5f361e03.chunk.css",
+    "main.js": "/simplescreensaver/static/js/main.11980ad1.chunk.js",
+    "main.js.map": "/simplescreensaver/static/js/main.11980ad1.chunk.js.map",
+    "runtime-main.js": "/simplescreensaver/static/js/runtime-main.111feb09.js",
+    "runtime-main.js.map": "/simplescreensaver/static/js/runtime-main.111feb09.js.map",
+    "static/js/2.5b012b4c.chunk.js": "/simplescreensaver/static/js/2.5b012b4c.chunk.js",
+    "static/js/2.5b012b4c.chunk.js.map": "/simplescreensaver/static/js/2.5b012b4c.chunk.js.map",
+    "index.html": "/simplescreensaver/index.html",
+    "precache-manifest.82660e5bdee5bb6c8b6411911731fd76.js": "/simplescreensaver/precache-manifest.82660e5bdee5bb6c8b6411911731fd76.js",
+    "service-worker.js": "/simplescreensaver/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/simplescreensaver/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b012b4c.chunk.js.LICENSE.txt": "/simplescreensaver/static/js/2.5b012b4c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/simplescreensaver/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111feb09.js",
+    "static/js/2.5b012b4c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.11980ad1.chunk.js"
+  ]
+}
