@@ -7,7 +7,7 @@ class Footer extends React.Component {
         return ( 
             <div className="fixed-bottom footer">
                 <nav className="nav footernav">
-                  <a className="nav-link package-json" href="../package.json">Version {data.version}</a>
+                  <a className="nav-link package-json">Version {data.version}</a>
                   <SettingsModal />
                 </nav>
             </div>
