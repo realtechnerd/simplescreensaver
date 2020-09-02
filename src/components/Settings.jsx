@@ -6,10 +6,8 @@ class Settings extends React.Component {
     render() { 
         return ( 
             <div className="settings">
-                <form>
                     <SettingsBackground />
-                    <button className='lgbprimary scale bsm'>Save Changes</button>
-                </form>
+                    <button className='lgbmegatron scale lb1'>Save Changes</button>
             </div>
          );
     }

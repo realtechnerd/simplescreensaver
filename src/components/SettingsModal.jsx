@@ -25,9 +25,9 @@ function SettingsModal() {
 
           </Modal.Body>
           <Modal.Footer>
-            <Button variant="light" onClick={handleClose}>
+            <button className="odark lb bsm scale" onClick={handleClose}>
               Close
-            </Button>
+            </button>
           </Modal.Footer>
         </Modal>
       </div>
