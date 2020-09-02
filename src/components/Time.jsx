@@ -18,7 +18,7 @@ class Time extends React.Component {
         };
         this.componentDidMount = this.componentDidMount.bind(this);
       }
-
+      
     componentDidMount() {
         const timeUpdate = this.interval = setInterval(() => this.setState({ time: new Date().toLocaleTimeString() }), 50);
     }

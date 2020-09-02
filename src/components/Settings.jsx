@@ -7,7 +7,6 @@ class Settings extends React.Component {
         return ( 
             <div className="settings">
                     <SettingsBackground />
-                    <button className='lgbmegatron scale lb1'>Save Changes</button>
             </div>
          );
     }
