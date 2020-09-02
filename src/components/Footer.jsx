@@ -1,6 +1,7 @@
 import React from 'react';
 import data from "../../package.json";
-import SettingsModal from "./SettingsModal.jsx"
+import SettingsModal from "./SettingsModal.jsx";
+import "./style.css";
 
 class Footer extends React.Component {
     render() { 

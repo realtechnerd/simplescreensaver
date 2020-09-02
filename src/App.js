@@ -3,17 +3,14 @@ import './App.css';
 import Time from "./components/Time.jsx"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "./components/Footer.jsx";
-import Settings from "./components/SettingsModal.jsx";
 
-class App extends React.Component {
-  render() {
-    return(
-      <div>
+function App() {
+  return(
+    <div>
         <Time />
         <Footer />
-      </div>
-    )
-  }
+    </div>
+  )
 }
 
 export default App;
